@@ -1,0 +1,18 @@
+# Python-related files
+*.pyc
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Django specific files
+db.sqlite3
+*.pyc
+
+# Environment variables
+.env
+
+# IDE and OS generated files
+.vscode/
+.DS_Store
+.idea/
