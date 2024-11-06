@@ -8,6 +8,8 @@ The InsurTech web application allows users to search, purchase, manage, and clai
 - **Simplified KYC**: Streamlined customer onboarding with KYC document upload.
 - **Customizable Plans**: Offers flexible insurance plans tailored to individual needs.
 
+https://github.com/user-attachments/assets/e8ae2d3a-cc62-41aa-961e-588a2e542236
+
 # Tech Stack
 - **Backend**: Django REST Framework
 - **Frontend**: React.js
@@ -30,11 +32,14 @@ Event-driven architecture for immediate status changes.
 # What I plan to add:
 1.Automated Document Processing:
 Intelligent OCR for document verification and Automated data extraction and validation
+
 2.Secure Data Management: 
 End-to-end encryption and Regular security audits and compliance checks
-Scalable Architecture:
+
+3.Scalable Architecture:
 Microservices-based design and Load balancing and auto-scaling capabilities
-Cross-platform Compatibility:
+
+4.Cross-platform Compatibility:
 Responsive design for all devices and Progressive Web App capabilities
 
 
