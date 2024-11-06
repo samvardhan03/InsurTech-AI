@@ -93,7 +93,7 @@ File claims and upload KYC documents.
 
 
 # License
-This project is licensed under   License.
+This project is licensed under GNU General Public License v2.0 License.
 
 
 
