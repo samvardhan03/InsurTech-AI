@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/e8ae2d3a-cc62-41aa-961e-588a2e542236
 
 # Working:
 
-<img width="896" alt="Screenshot 2024-11-06 at 12 53 42 AM" src="https://github.com/user-attachments/assets/507e2d76-da98-460a-9712-1d922d9d8bf1">
+https://github.com/user-attachments/assets/325460b7-50a0-4a4a-9f88-9e96474f5af1
 
 Our InsurTech platform leverages cutting-edge technologies to deliver a robust, secure, and scalable solution for insurance management. The architecture is designed with future growth in mind, ensuring the platform can evolve with changing market demands and technological advancements.
 Advanced Technology Stack:
