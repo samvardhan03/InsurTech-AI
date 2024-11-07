@@ -8,7 +8,7 @@ The InsurTech web application allows users to search, purchase, manage, and clai
 - **Simplified KYC**: Streamlined customer onboarding with KYC document upload.
 - **Customizable Plans**: Offers flexible insurance plans tailored to individual needs.
 
-https://github.com/user-attachments/assets/e8ae2d3a-cc62-41aa-961e-588a2e542236
+https://github.com/user-attachments/assets/325460b7-50a0-4a4a-9f88-9e96474f5af1
 
 # Tech Stack
 - **Backend**: Django REST Framework
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/e8ae2d3a-cc62-41aa-961e-588a2e542236
 
 # Working:
 
-https://github.com/user-attachments/assets/325460b7-50a0-4a4a-9f88-9e96474f5af1
+<img width="1232" alt="Screenshot 2024-11-08 at 2 40 09 AM" src="https://github.com/user-attachments/assets/b7d6181c-40ab-42a5-a470-b7665b33725f">
 
 Our InsurTech platform leverages cutting-edge technologies to deliver a robust, secure, and scalable solution for insurance management. The architecture is designed with future growth in mind, ensuring the platform can evolve with changing market demands and technological advancements.
 Advanced Technology Stack:
@@ -28,6 +28,8 @@ and enables modular development and easy scaling.
 Secure File Upload System implements encrypted document storage.
 WebSocket integration for live notifications.
 Event-driven architecture for immediate status changes.
+
+<img width="751" alt="Screenshot 2024-10-25 at 10 47 59 PM" src="https://github.com/user-attachments/assets/a0d824c6-0b09-4d8f-ac8a-8c149991b0d4">
 
 # What I plan to add:
 1.Automated Document Processing:
