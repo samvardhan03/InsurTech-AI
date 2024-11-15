@@ -18,4 +18,7 @@ class Claim(models.Model):
     claim_status = models.CharField(max_length=50, default='Pending')
 
 class KYC(models.Model):
-name = models
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    document_type = models.CharField(max_length=100)
+    document_id = models.CharField(max_length=100)
+    verified = models.BooleanField(default=False)
