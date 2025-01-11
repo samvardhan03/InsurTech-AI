@@ -1,6 +1,6 @@
-# InsurTech-improv-
+# InsurTech
 <img width="1680" alt="Screenshot 2024-11-06 at 12 11 36 AM" src="https://github.com/user-attachments/assets/dd5e8c24-7ac9-499e-a92b-91588629a874">  
-The InsurTech web application allows users to search, purchase, manage, and claim insurance policies through a centralized platform. Built with Django for the backend API and React for the frontend interface, this platform also includes features for KYC management and personalized insurance plans,currently still in making!
+The InsurTech AI based web application allows users to search, purchase, manage, and claim insurance policies through a centralized platform. Built with Django for the backend API and React for the frontend interface, this platform also includes features for KYC management and personalized insurance plans,currently still in making!
 
 # Features:
 - **Centralized Insurance Management**: Users can manage multiple policies (life, health, car, etc.) from various insurers.
